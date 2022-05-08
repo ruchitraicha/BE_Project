@@ -1,4 +1,4 @@
-23_Surakhsha Kavach:ML Based Cross Platform Application for Covid-19 Vulnerability Detection\b
+23_Surakhsha Kavach:ML Based Cross Platform Application for Covid-19 Vulnerability Detection \b
 
 Group Members:
 1. Ruchi Raicha
