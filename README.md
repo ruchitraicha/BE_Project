@@ -1,4 +1,4 @@
-23_Surakhsha Kavach:ML Based Cross Platform Application for Covid-19 Vulnerability Detection
+23_Surakhsha Kavach:ML Based Cross Platform Application for Covid-19 Vulnerability Detection\b
 
 Group Members:
 1. Ruchi Raicha
@@ -13,4 +13,5 @@ vulnerablities of covid attack which will help people to take precautions at an 
 further serious consequences and protect themselves and their family. Overall this app will be easily 
 available on any platform which will help people to easily access and take the benefit of it. We have 
 arrived at a conclusion that ML based Suraksha Kavach App is a much viable solution for the people to 
-take precautionary measures at an early stage. 
+take precautionary measures at an early stage.
+
